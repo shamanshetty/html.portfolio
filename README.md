@@ -1,3 +1,2 @@
-My portfolio website
-I am constantly updating this.
-Currently work under progress.
+My first portfolio website
+That I had built using pure html,css and js
